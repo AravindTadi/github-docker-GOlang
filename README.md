@@ -1,1 +1,1 @@
-## sample Golang with Docker Hub with CI/CD testings..
+## Deploy GOlang App Docker to Registry - CI/CD
