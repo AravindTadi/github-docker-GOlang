@@ -1,1 +1,1 @@
-## sample Golang with Docker with CI/CD testings
+## sample Golang with Docker Hub with CI/CD testings 
